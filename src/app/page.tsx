@@ -11,8 +11,8 @@ export default function Home() {
           
 
           <div className="mt-4">
-            <p>new hackathon.</p>
-            <p>more info coming soon.</p>
+            <p>new hackathon coming 2025.</p>
+            <p>more info soon.</p>
             
           </div>
 
