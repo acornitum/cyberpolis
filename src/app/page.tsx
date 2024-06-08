@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <main>
@@ -13,7 +11,7 @@ export default function Home() {
           
 
           <div className="mt-4">
-            <p>a hackathon.</p>
+            <p>new hackathon.</p>
             <p>more info coming soon.</p>
             
           </div>
